@@ -3,7 +3,7 @@ title: "[깃알못의 GitHub 블로그 시작하기] 1. 테마 선택, 포크 �
 excerpt: "마음에 드는 테마를 선택하고 내 컴퓨터로 가져오기."
 
 categories:
-  - [GitHub Blog]
+  - GitHub Blog
 tags:
   - [GitHub, Blog]
 
