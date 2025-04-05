@@ -12,7 +12,7 @@ permalink: /github-blog/github-blog-start-1-theme-setup
 toc: true
 toc_sticky: true
 
-date: 2025-04-5
+date: 2025-04-05
 last_modified_at: 2025-04-05
 ---
 
