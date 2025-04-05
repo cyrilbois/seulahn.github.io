@@ -3,7 +3,7 @@ title: "[깃알못의 GitHub 블로그 시작하기] 0. GitHub를 선택한 이�
 excerpt: "블로그를 시작한 계기, 그리고 GitHub인 이유."
 
 categories:
-  - GitHub Blog
+  - [GitHub Blog]
 tags:
   - [GitHub, Blog]
 
