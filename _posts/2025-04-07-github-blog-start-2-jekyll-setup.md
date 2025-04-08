@@ -1,5 +1,5 @@
 ---
-title: "[깃알못의 GitHub 블로그 시작하기] 2. Jekyll 환경 구축부터 로컬 서버 실행까지"
+title: "[깃알못의 GitHub 블로그 시작하기] 2. Jekyll 환경 구축에서 로컬 서버 실행까지"
 excerpt: "Ruby와 Jekyll을 설치하고, 로컬 서버에서 블로그를 확인해보기."
 
 categories:
