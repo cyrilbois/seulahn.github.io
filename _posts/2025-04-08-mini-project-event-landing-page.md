@@ -12,8 +12,8 @@ permalink: /html-css/mini-project-event-landing-page
 toc: true
 toc_sticky: true
 
-date: 2025-04-09
-last_modified_at: 2025-04-09
+date: 2025-04-08
+last_modified_at: 2025-04-08
 ---
 
 HTML과 CSS를 활용한 첫 번째 미니 프로젝트로 **행사 랜딩 페이지**를 제작해 보았다.  
