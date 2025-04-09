@@ -290,7 +290,7 @@ bundle exec jekyll serve
 
 `http://127.0.0.1:4000/`
 
-<img src="/assets/images/posts_img/2025-04-06-github-blog-start-2/01-blog-main-local-preview.png" alt="로컬에서 실행된 블로그 메인 페이지 화면" width="600">
+<img src="/assets/images/posts_img/2025-04-07-github-blog-start-2/01-blog-main-local-preview.png" alt="로컬에서 실행된 블로그 메인 페이지 화면" width="600">
 
 짠
 

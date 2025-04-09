@@ -40,7 +40,7 @@ CSS의 모든 개념을 알지는 못하지만, 실제로 웹페이지를 만들
 ChatGPT로 섹션별 더미 텍스트를 생성했고, Figma를 사용해 전체 구도와 요소 간 간격을 스케치했다. (Figma에서 HTML과 CSS 코드를 바로 추출할 수 있다는데, 다음엔 그렇게도 작업해 봐야겠다!)
 
 <p align="center">
-  <img src="/assets/images/posts_img/2025-04-09-html-css-01/01-figma-overall-sketch.png" alt="전체 Figma 스케치" width="400">
+  <img src="/assets/images/posts_img/2025-04-08-html-css-01/01-figma-overall-sketch.png" alt="전체 Figma 스케치" width="400">
   <br>
   <em>Figma 스케치</em>
 </p>
@@ -81,7 +81,7 @@ CSS 파일은 `style.css`로 분리했다.
 `<body>` 에는 `<section>` 태그를 사용해 각 섹션을 나눴는데, 어려운 부분은 없었기 때문에 자세한 과정은 생략하겠다. HTML 파일만 작성한 후의 모습은 대략 이렇다.  
 
 <p align="center">
-  <img src="/assets/images/posts_img/2025-04-09-html-css-01/02-html-only-preview.png" alt="HTML만 적용한 초기 화면" width="500">
+  <img src="/assets/images/posts_img/2025-04-08-html-css-01/02-html-only-preview.png" alt="HTML만 적용한 초기 화면" width="500">
   <br>
 </p>
 
@@ -235,7 +235,7 @@ button {
   ```
   
   <p align="center">
-    <img src="/assets/images/posts_img/2025-04-09-html-css-01/03-firma-hero-margin.png" alt="Hero 섹션 마진" width="500">
+    <img src="/assets/images/posts_img/2025-04-08-html-css-01/03-firma-hero-margin.png" alt="Hero 섹션 마진" width="500">
     <br>
     <em>Figma 스케치와 비교</em>
   </p>
@@ -263,7 +263,7 @@ button {
 #### **3. Speakers 섹션**
     
   <p align="center">
-    <img src="/assets/images/posts_img/2025-04-09-html-css-01/05-figma-speakers-margin.png" alt="Speakers 섹션 마진" width="500">
+    <img src="/assets/images/posts_img/2025-04-08-html-css-01/05-figma-speakers-margin.png" alt="Speakers 섹션 마진" width="500">
     <br>
   </p>
 
@@ -340,7 +340,7 @@ button {
   ```
 
   <p align="center">
-    <img src="/assets/images/posts_img/2025-04-09-html-css-01/06-figma-schedule-margin.png" alt="	Schedule 섹션 마진" width="500">
+    <img src="/assets/images/posts_img/2025-04-08-html-css-01/06-figma-schedule-margin.png" alt="	Schedule 섹션 마진" width="500">
     <br>
   </p>
 
@@ -377,7 +377,7 @@ button {
   입력창의 `margin-bottom`이 20px이므로, 버튼의 `margin-top`은 40px으로 설정해 입력창과 버튼 사이 마진을 60px로 맞췄다.
   
   <p align="center">
-    <img src="/assets/images/posts_img/2025-04-09-html-css-01/07-figma-sign-up-margin.png" alt="Sign-up 섹션 마진" width="500">
+    <img src="/assets/images/posts_img/2025-04-08-html-css-01/07-figma-sign-up-margin.png" alt="Sign-up 섹션 마진" width="500">
     <br>
   </p>
     
@@ -389,7 +389,7 @@ button {
 결과물은 다음과 같다. 스케치했던 구조와 거의 비슷하게 완성되었다.
 
 <p align="center">
-  <img src="/assets/images/posts_img/2025-04-09-html-css-01/08-initial-browser-screenshot.png" alt="전체 페이지 브라우저 화면" width="400">
+  <img src="/assets/images/posts_img/2025-04-08-html-css-01/08-initial-browser-screenshot.png" alt="전체 페이지 브라우저 화면" width="400">
   <br>
 </p>
 
@@ -398,7 +398,7 @@ button {
 결국에는 전체 디자인이 더 조화롭게 보이도록 크기를 조금씩 조정했다. 연사 사진도 줄여서, 기존에는 한 줄에 세 명이 배치됐던 것을 네 명까지 들어가도록 수정했다.
 
 <p align="center">
-  <img src="/assets/images/posts_img/2025-04-09-html-css-01/09-final-browser-screenshot.png" alt="수정한 전체 페이지 브라우저 화면" width="400">
+  <img src="/assets/images/posts_img/2025-04-08-html-css-01/09-final-browser-screenshot.png" alt="수정한 전체 페이지 브라우저 화면" width="400">
   <br>
 </p>
 
