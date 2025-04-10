@@ -1,6 +1,6 @@
 ---
 title: "[HTML_CSS 미니 프로젝트] 행사 랜딩 페이지 만들기"
-excerpt: "HTML과 CSS를(Figma도 살짝) 활용해 행사 랜딩 페이지 설계하고 구현해 보자."
+excerpt: "HTML과 CSS를 활용해 간단한 행사 랜딩 페이지를 설계하고 구현해 보자."
 
 categories:
   - HTML_CSS
