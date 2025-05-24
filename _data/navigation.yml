@@ -20,5 +20,7 @@ main:
 categories:
   - title: "HTML_CSS"
     url: /categories/html-css/
+  - title: "Git"
+    url: /categories/git/
   - title: "GitHub Blog"
     url: /categories/github-blog/
