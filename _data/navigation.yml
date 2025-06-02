@@ -18,8 +18,12 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "HTML_CSS"
-    url: /categories/html-css/
+  - title: "WEB"
+    children:
+    - title: "HTML_CSS"
+      url: /categories/html-css/
+  - title: "Technical Writing"
+    url: /categories/tw/
   - title: "Git"
     url: /categories/git/
   - title: "GitHub Blog"
