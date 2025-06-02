@@ -1,6 +1,6 @@
 ---
 title: "[API Documentation] API와 정형 데이터"
-excerpt: "API는 어떻게 작동하고, JSON과 XML은 왜 필요할까?" 
+excerpt: "API는 어떻게 작동하고, JSON과 XML은 무엇일까?" 
 
 categories:
   - Technical Writing
