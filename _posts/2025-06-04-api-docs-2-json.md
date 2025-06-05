@@ -1,6 +1,6 @@
 ---
 title: "[API Documentation] JSON의 개념과 구조, 그리고 문서화 방법"
-excerpt: "JSON을 더 자세히 이해하고, JSON 데이터를 표로 정리해보자." 
+excerpt: "JSON을 더 자세히 이해하고, JSON 데이터를 표로 정리해 보자." 
 
 categories:
   - Technical Writing
@@ -268,14 +268,8 @@ API에서 JSON 형식을 사용해 데이터를 주고받을 경우, 이 데이�
   
 **참고자료**
 
-- *Learn API Technical Writing: JSON and XML for Writers*
-  
-    [https://www.udemy.com/course/api-documentation-1-json-and-xml/learn/lecture/2122892#content](https://www.udemy.com/course/api-documentation-1-json-and-xml/)
-    
-- *Mastering JSON Format*
-  
-    [https://jsonlint.com/mastering-json-format](https://jsonlint.com/mastering-json-format)
+- *Udemy - [Learn API Technical Writing: JSON and XML for Writers](https://www.udemy.com/course/api-documentation-1-json-and-xml/)*
 
-- *What is JSON?*   
+- *JSON Lint - [Mastering JSON Format](https://jsonlint.com/mastering-json-format)*
 
-    [https://www.mongodb.com/resources/languages/what-is-json](https://www.mongodb.com/resources/languages/what-is-json)
+- *MongoDB - [What is JSON?](https://www.mongodb.com/resources/languages/what-is-json)*
