@@ -1,6 +1,6 @@
 ---
 title: "[API Documentation] REST API ② HTTP 메서드(GET, POST, PUT, DELETE)"
-excerpt: "REST API에서 주로 쓰이는 네 가지 HTTP 메서드의 역할과 요청 예시" 
+excerpt: "REST API에서 주로 쓰이는 네 가지 HTTP 메서드의 역할과 요청 예시"
 
 categories:
   - Technical Writing
