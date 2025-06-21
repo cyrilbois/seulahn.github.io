@@ -1,6 +1,6 @@
 ---
 title: "[API Documentation] REST API ③ 쿼리 매개변수"
-excerpt: "페이지 매김, 정렬, 필터링을 위해 쿼리 매개변수 사용하기, 그리고 쿼리 변수를 표로 정리하는 방법"
+excerpt: "페이지 매김, 정렬, 필터링을 위해 쿼리 매개변수 사용하기, 그리고 쿼리 매개변수를 표로 정리하는 방법"
 
 categories:
   - Technical Writing
